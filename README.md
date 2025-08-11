@@ -1,1 +1,1 @@
-# mini-fraud-detector
+# Stock Sentiment Analyser
